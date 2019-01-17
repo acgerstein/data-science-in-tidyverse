@@ -34,3 +34,5 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 This is a comment I'm making on my local computer.
 
+This is a comment I'm making on the cloud.
+
